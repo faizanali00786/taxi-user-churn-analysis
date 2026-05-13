@@ -86,6 +86,14 @@ These generated identifiers were used to simulate customer activity, engagement 
 - Ride streak analysis highlighted differences in continuous engagement behavior
 - Revenue concentration patterns suggested dependency on high-value riders
 
+----
+
+## Business Recommendations
+- Launch retention campaigns targeting At-Risk and Churned users
+- Introduce loyalty incentives for high-frequency riders to improve long-term engagement
+- Monitor inactivity gaps to trigger early re-engagement notifications
+- Focus marketing efforts on high-value customer segments contributing most revenue
+- Track ride streak behavior to identify highly engaged users for premium offerings
 ---
 
 ## Business Impact
